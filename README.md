@@ -1,6 +1,4 @@
-## Hey, I'm Arnick 👋
-
-# 💫 About Me:
+# 💫 Hey, I'm Arnick:
 🔭 I’m currently working on<br> improving modern, responsive UIs with React, TypeScript, and Next.js.<br>👯 I’m looking to collaborate on<br> front-end projects that involve clean UI, performance, and modern tooling.<br>🤝 I’m looking for help with<br> scaling React apps and exploring more advanced architecture patterns.<br>🌱 I’m currently learning<br> deeper Next.js concepts, GraphQL best practices, and testing with Jest/Vitest.<br>💬 Ask me about<br> JavaScript, React, TypeScript, TailwindCSS, or building smooth UI experiences.<br>⚡ Fun fact:<br> I love refining UI details—sometimes pixel-perfect is my relaxation.
 
 
